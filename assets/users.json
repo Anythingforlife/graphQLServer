@@ -1,1 +1,13 @@
-[{"firstName":"omprakash","lastName":"Gomaskar","email":"om@g.com","username":"om","password":"omprakash","confirmPassword":"omprakash"},{"firstName":"amol","lastName":"khot","email":"amol@g.com","username":"amol","password":"amol123","confirmPassword":"amol123"},{"firstName":"dg","lastName":"dg","email":"tp@g.com","username":"dfg","password":"omsai2","confirmPassword":"omsai2"}]
+[
+    {
+        "id": 1,
+        "firstName": "omprakash",
+        "lastName": "Gomaskar",
+        "email": "om@g.com",
+        "password": "omprakash",
+        "role": "admin"
+    },
+    {"id": 2, "firstName": "amol", "lastName": "khot", "email": "amol@g.com", "password": "amol123", "role": "user"},
+    {"id": 3, "firstName": "dg", "lastName": "dg", "email": "tp@g.com", "password": "omsai2", "role": "user"},
+    {"email": "test@ee.com", "password": "EE", "id": 4, "role": "user"}
+]
